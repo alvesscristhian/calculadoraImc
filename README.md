@@ -24,3 +24,7 @@ Com essa calculadora de IMC (Índice de Massa Corporal) permite ao usuário inse
 <h4><li>Boas práticas de organização e estruturação de código</li></h4>
 <h4><li>Separação entre lógica e interface</li></h4>
 </ul>
+
+## 🔗 Como Executar
+
+Acesse o link: yourimccalculator.netlify.app
